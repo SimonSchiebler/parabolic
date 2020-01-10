@@ -1,7 +1,7 @@
 # About this Project
 This program calculates the surface of a parabolic mirror mouonted on top of a camera. This mirror projects a specified area around it in a linear way onto the cameas view plane.
 
-This Prject was realized with node, Typescript and nodeplotlib.
+This Project was realized with node, Typescript and nodeplotlib.
 
 # Dependencies
 In order to use this repo you need to install **node**
