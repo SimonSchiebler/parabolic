@@ -1,5 +1,5 @@
 # About this Project
-This program calculates the surface of a parabolic mirror mouonted on top of a camera. This mirror projects a specified area around it in a linear way onto the cameas view plane.
+This program calculates the surface of a parabolic mirror mounted on top of a camera. This mirror projects a circular area around it in a linear way onto the cameas view plane.
 
 This Project was realized with node, Typescript and nodeplotlib.
 
